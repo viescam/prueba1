@@ -1,3 +1,0 @@
-﻿Este fichero se está generando en el propio repositorio
-Una vez ha vuelto a local; se ha añadido al .gitignore
-Se ha subido al repositorio. Comprobamos si también cambia
