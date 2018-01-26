@@ -1,1 +1,2 @@
-Este fichero se está generando en el propio repositorio
+﻿Este fichero se está generando en el propio repositorio
+Una vez ha vuelto a local; se ha añadido al .gitignore
