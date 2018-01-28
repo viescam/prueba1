@@ -1,5 +1,5 @@
 # ignore a single file
-ficheroPrueba2.txt
+fichero2.txt
 
 # ignore an entire directory
 /noTrack/
